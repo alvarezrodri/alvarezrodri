@@ -1,4 +1,13 @@
-## Hi there 👋
+### Olá 👋
+
+###### Sobre o Rodrigo
+Estudante de Data Science na FIAP, com foco em Python, SQL, engenharia de dados e soluções orientadas a dados.
+
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarezrodri&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **alvarezrodri/alvarezrodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
