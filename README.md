@@ -6,7 +6,7 @@ Estudante de Data Science na FIAP, com foco em Python, SQL, engenharia de dados 
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrogithub1406&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alvarezrodri&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=alvarezrodri&include_all_commits=true&theme=dark)
 
 
 <!--
