@@ -8,9 +8,9 @@ Estudante de Data Science na FIAP, com foco em Python, SQL, engenharia de dados 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alvarezrodri&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=alvarezrodri&include_all_commits=true&theme=dark)
 
-### Projetos
+### Linguagens utilizadas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarezrodri&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alvarezrodri&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=alvarezrodri&langs_count=4&theme=synthwave)
 
 <!--
 **alvarezrodri/alvarezrodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
