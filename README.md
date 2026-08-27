@@ -12,6 +12,10 @@ Estudante de Data Science na FIAP, com foco em Python, SQL, engenharia de dados 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alvarezrodri&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=alvarezrodri&langs_count=4&theme=synthwave)
 
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rodrigo-alvarez-ti/)
+
 <!--
 **alvarezrodri/alvarezrodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
