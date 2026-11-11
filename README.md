@@ -1,33 +1,54 @@
-### Olá 👋
 
-###### Sobre o Rodrigo
+# Olá, eu sou Rodrigo Alvarez! 👋
 
-Estudante de Data Science na FIAP, com interesse em atuar como Analista de Dados e Cientista de Dados. Tenho experiência com Python, SQL, tratamento, análise e validação de dados, além de projetos de engenharia de dados com Apache Airflow e Oracle Database. Busco transformar dados em análises e soluções que apoiem a tomada de decisão.
+### 📊 Data Science | Data Analytics | Data Engineering
 
+🎓 Estudante de Ciência de Dados na FIAP  
+💼 Experiência prática com Banco de Dados  
+🚀 Desenvolvendo soluções com Python, SQL e IA  
+📍 São Paulo, Brasil
 
-### Detalhes
+---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alvarezrodri&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=alvarezrodri&include_all_commits=true&theme=dark)
+## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens utilizadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alvarezrodri&langs_count=4&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=alvarezrodri&langs_count=4&theme=synthwave)
+## 🚀 Projetos em Destaque
 
-### Contatos
+### 🔍 Detecção de Anomalias em Transações
+Projeto de análise de dados para identificar padrões atípicos.
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rodrigo-alvarez-ti/)
+[Ver projeto](https://github.com/alvarezrodri/Projeto_Deteccao_de_Anomalias_em_Transacoes)
 
-<!--
-**alvarezrodri/alvarezrodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Processamento de Dados com PySpark
+Exploração e processamento de dados utilizando Apache Spark.
 
-Here are some ideas to get you started:
+[Ver projeto](https://github.com/alvarezrodri/ProjetoPyspark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Visualização de Dados com Python
+Exploração de dados e construção de visualizações.
+
+[Ver projeto](https://github.com/alvarezrodri/Projeto-Python-Viz)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezrodri&layout=compact&theme=tokyonight)
+
+## 🐍 Contribuições
+
+![Snake](https://raw.githubusercontent.com/alvarezrodri/alvarezrodri/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Vamos nos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-alvarez-8862a1253/)
+
+📧 rodrigo.alvarez.data@gmail.com
