@@ -77,14 +77,19 @@ Projeto de exploração e visualização de dados para comunicar padrões e resu
 - **FIAP — Ciência de Dados:** projetos acadêmicos envolvendo arquitetura de dados, pipelines, análise, governança e métodos ágeis.
 - **Aprendizado contínuo:** aprofundamento em engenharia de dados, Databricks e tecnologias de IA.
 
-## 📊 Linguagens nos repositórios públicos
+## 📊 Principais linguagens e tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezrodri&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais presentes nos repositórios públicos" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </div>
 
-> Este gráfico reflete as linguagens detectadas nos repositórios públicos, não o nível de proficiência.
-
+> Tecnologias utilizadas em projetos, estudos e atividades profissionais.
 ---
 
 ## 🤝 Vamos nos conectar?
